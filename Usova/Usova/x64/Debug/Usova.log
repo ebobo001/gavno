@@ -1,0 +1,7 @@
+﻿  Main.cpp
+D:\StudioProject\Usova\Usova\Main.cpp(7,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\Usova\Usova\Queue.h(37,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+D:\StudioProject\Usova\Usova\Queue.h(36): message : во время компиляции функции-члена класс шаблон "int TQueue_on_list<int>::get_real_size(void)"
+D:\StudioProject\Usova\Usova\Main.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "int TQueue_on_list<int>::get_real_size(void)"
+D:\StudioProject\Usova\Usova\Main.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TQueue_on_list<int>"
+  Usova.vcxproj -> D:\StudioProject\Usova\x64\Debug\Usova.exe
